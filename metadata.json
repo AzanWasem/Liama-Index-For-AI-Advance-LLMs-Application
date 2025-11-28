@@ -1,0 +1,7 @@
+{
+  "name": "MindCore",
+  "description": "An advanced, beautifully designed AI hub to interact with various AI models. Create documents, generate images, and explore the future of AI in a stunning glassmorphism interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
